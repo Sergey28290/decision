@@ -1,3 +1,3 @@
 # decision
-Быстрый практикум - Quick_Practice
+Быстрый практикум - Quick_Practice  
 Рабочий проект - Working Draft
